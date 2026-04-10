@@ -9,13 +9,13 @@ My name is Lorelai Williams and I am a computer science student at Brigham Young
 #Sliding Tile Puzzle 
  - Built two versions in Python and C++. Shifts tiles around a board of any size using W, A, S, D keys.
 
-#Trivia app
+# Trivia app
  - Built an app using block code that quizzes the user on various Disney trivia.
-#Text-based Fighting Game
+# Text-based Fighting Game
 
  - Built in C++. Developed simple interface that gave the user the opportunity to block, attack, or heal in fights against enemies. The user was given health points, attack points, defense points, and both the user and enemy had a chance of landing a critical strike when selecting the attack option.
 
-#Smart Doorknob
+# Smart Doorknob
  - Built a smart doorknob in C using a Raspberry Pi that allowed the user to display images, take pictures with the camera, process and edit those pictures, and send them to a server. 
 
 ## Experience
