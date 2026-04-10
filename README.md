@@ -14,7 +14,7 @@ My name is Lorelai Williams and I am a computer science student at Brigham Young
 #Text-based Fighting Game
 
  - Built in C++. Developed simple interface that gave the user the opportunity to block, attack, or heal in fights against enemies. The user was given health points, attack points, defense points, and both the user and enemy had a chance of landing a critical strike when selecting the attack option.
- - 
+
 #Smart Doorknob
  - Built a smart doorknob in C using a Raspberry Pi that allowed the user to display images, take pictures with the camera, process and edit those pictures, and send them to a server. 
 
